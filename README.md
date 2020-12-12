@@ -1,6 +1,6 @@
 # pandas-challenge: PyCitySchools
 
-For this assignment, we've been asked to analyze fictional district-wide standardized test results. We are given access to every student's math and reading scores, as well as various information on the schools they attend. Our responsibility is to aggregate the data to and showcase obvious trends in school performance.
+For this assignment, we've been asked to analyze fictional school district-wide standardized test results. We are given access to every student's math and reading scores, as well as various information on the schools they attend. Our responsibility is to aggregate the data to and showcase obvious trends in school performance.
 My final report includes each of the following:
 
 District Summary
@@ -78,6 +78,4 @@ Same as above, but this time I've grouped schools based on school type (Charter 
 
 In this exercise, I used the pandas library and Jupyter Notebook.
 
-
-You must include a written description of at least two observable trends based on the data.
-See Example Solution for a reference on the expected format.
+The data analysis provides several intriguing observable trends. There appears to be a negative correlation between school funding per student and standardized test performance. There also appears to be some interesting insights regarding standardized test performance differences between charter and district schools with charter school students performing considerably better on standardized tests. These trends warrant further investigation into external factors that may exist in the community and a deeper look at what standardized testing is measuring.
